@@ -1,0 +1,267 @@
+Date,Season,season,home_team,away_team,result,B365H,B365D,B365A,predicted,confidence,correct,odd_apostada,retorno,lucro,saldo_acumulado
+2022-08-06,2022/23,2022,Fulham,Liverpool,Draw,11.0,6.0,1.25,AwayWin,0.82,False,1.25,0.0,-1000.0,-1000.0
+2022-08-07,2022/23,2022,West Ham,Man City,AwayWin,8.0,5.0,1.36,AwayWin,0.854,True,1.36,1360.0,360.0,-640.0
+2022-08-13,2022/23,2022,Man City,Bournemouth,HomeWin,1.06,13.0,29.0,HomeWin,0.838,True,1.06,1060.0,60.0,-580.0
+2022-08-13,2022/23,2022,Arsenal,Leicester,HomeWin,1.53,4.33,5.75,HomeWin,0.825,True,1.53,1530.0,530.0,-50.0
+2022-08-15,2022/23,2022,Liverpool,Crystal Palace,Draw,1.18,6.75,16.0,HomeWin,0.726,False,1.18,0.0,-1000.0,-1050.0
+2022-08-27,2022/23,2022,Arsenal,Fulham,HomeWin,1.3,5.75,9.0,HomeWin,0.702,True,1.3,1300.0,300.0,-750.0
+2022-08-27,2022/23,2022,Man City,Crystal Palace,HomeWin,1.18,7.5,13.0,HomeWin,0.923,True,1.18,1180.0,180.0,-570.0
+2022-08-27,2022/23,2022,Liverpool,Bournemouth,HomeWin,1.1,10.0,26.0,HomeWin,0.893,True,1.1,1100.0,100.0,-470.0
+2022-08-27,2022/23,2022,Southampton,Man United,AwayWin,4.2,4.0,1.8,AwayWin,0.778,True,1.8,1800.0,800.0,330.0
+2022-08-31,2022/23,2022,Liverpool,Newcastle,HomeWin,1.33,5.25,9.0,HomeWin,0.784,True,1.33,1330.0,330.0,660.0
+2022-08-31,2022/23,2022,Man City,Nott'm Forest,HomeWin,1.06,13.0,29.0,HomeWin,0.9,True,1.06,1060.0,60.0,720.0
+2022-08-31,2022/23,2022,Bournemouth,Wolves,Draw,3.5,3.3,2.15,AwayWin,0.705,False,2.15,0.0,-1000.0,-280.0
+2022-09-03,2022/23,2022,Tottenham,Fulham,HomeWin,1.5,4.5,6.5,HomeWin,0.731,True,1.5,1500.0,500.0,220.0
+2022-09-17,2022/23,2022,Tottenham,Leicester,HomeWin,1.45,4.5,7.0,HomeWin,0.758,True,1.45,1450.0,450.0,670.0
+2022-09-17,2022/23,2022,Wolves,Man City,AwayWin,9.5,5.0,1.33,AwayWin,0.832,True,1.33,1330.0,330.0,1000.0
+2022-10-02,2022/23,2022,Man City,Man United,HomeWin,1.33,5.75,7.5,HomeWin,0.839,True,1.33,1330.0,330.0,1330.0
+2022-10-08,2022/23,2022,Man City,Southampton,HomeWin,1.11,10.0,17.0,HomeWin,0.925,True,1.11,1110.0,110.0,1440.0
+2022-10-15,2022/23,2022,Tottenham,Everton,HomeWin,1.5,4.5,6.5,HomeWin,0.751,True,1.5,1500.0,500.0,1940.0
+2022-10-16,2022/23,2022,Liverpool,Man City,HomeWin,3.6,4.0,1.9,AwayWin,0.745,False,1.9,0.0,-1000.0,940.0
+2022-10-19,2022/23,2022,Liverpool,West Ham,HomeWin,1.4,5.0,7.0,HomeWin,0.744,True,1.4,1400.0,400.0,1340.0
+2022-10-22,2022/23,2022,Man City,Brighton,HomeWin,1.2,7.0,13.0,HomeWin,0.898,True,1.2,1200.0,200.0,1540.0
+2022-10-22,2022/23,2022,Nott'm Forest,Liverpool,HomeWin,11.0,6.0,1.25,AwayWin,0.772,False,1.25,0.0,-1000.0,540.0
+2022-10-23,2022/23,2022,Southampton,Arsenal,Draw,6.0,4.0,1.57,AwayWin,0.732,False,1.57,0.0,-1000.0,-460.0
+2022-10-29,2022/23,2022,Leicester,Man City,AwayWin,10.0,6.5,1.25,AwayWin,0.733,True,1.25,1250.0,250.0,-210.0
+2022-10-29,2022/23,2022,Liverpool,Leeds,AwayWin,1.3,6.0,9.0,HomeWin,0.732,False,1.3,0.0,-1000.0,-1210.0
+2022-10-30,2022/23,2022,Arsenal,Nott'm Forest,HomeWin,1.2,7.0,12.0,HomeWin,0.859,True,1.2,1200.0,200.0,-1010.0
+2022-11-05,2022/23,2022,Man City,Fulham,HomeWin,1.11,9.5,19.0,HomeWin,0.926,True,1.11,1110.0,110.0,-900.0
+2022-11-12,2022/23,2022,Man City,Brentford,AwayWin,1.14,8.0,17.0,HomeWin,0.843,False,1.14,0.0,-1000.0,-1900.0
+2022-11-12,2022/23,2022,Liverpool,Southampton,HomeWin,1.25,6.5,11.0,HomeWin,0.781,True,1.25,1250.0,250.0,-1650.0
+2022-12-26,2022/23,2022,Arsenal,West Ham,HomeWin,1.5,4.33,6.5,HomeWin,0.745,True,1.5,1500.0,500.0,-1150.0
+2022-12-27,2022/23,2022,Chelsea,Bournemouth,HomeWin,1.3,5.5,10.0,HomeWin,0.733,True,1.3,1300.0,300.0,-850.0
+2022-12-27,2022/23,2022,Man United,Nott'm Forest,HomeWin,1.29,5.5,11.0,HomeWin,0.776,True,1.29,1290.0,290.0,-560.0
+2022-12-28,2022/23,2022,Leeds,Man City,AwayWin,9.5,6.0,1.29,AwayWin,0.826,True,1.29,1290.0,290.0,-270.0
+2022-12-30,2022/23,2022,Liverpool,Leicester,HomeWin,1.29,6.0,9.5,HomeWin,0.812,True,1.29,1290.0,290.0,20.0
+2022-12-31,2022/23,2022,Man City,Everton,Draw,1.13,9.0,19.0,HomeWin,0.888,False,1.13,0.0,-1000.0,-980.0
+2023-01-03,2022/23,2022,Man United,Bournemouth,HomeWin,1.29,5.5,11.0,HomeWin,0.735,True,1.29,1290.0,290.0,-690.0
+2023-01-19,2022/23,2022,Man City,Tottenham,HomeWin,1.36,5.0,8.5,HomeWin,0.774,True,1.36,1360.0,360.0,-330.0
+2023-01-22,2022/23,2022,Man City,Wolves,HomeWin,1.2,8.0,11.0,HomeWin,0.826,True,1.2,1200.0,200.0,-130.0
+2023-02-04,2022/23,2022,Everton,Arsenal,HomeWin,8.5,4.5,1.4,AwayWin,0.714,False,1.4,0.0,-1000.0,-1130.0
+2023-02-04,2022/23,2022,Man United,Crystal Palace,HomeWin,1.4,4.75,8.0,HomeWin,0.702,True,1.4,1400.0,400.0,-730.0
+2023-02-04,2022/23,2022,Brighton,Bournemouth,HomeWin,1.33,5.25,8.5,HomeWin,0.756,True,1.33,1330.0,330.0,-400.0
+2023-02-11,2022/23,2022,Bournemouth,Newcastle,Draw,6.5,4.0,1.53,AwayWin,0.729,False,1.53,0.0,-1000.0,-1400.0
+2023-02-12,2022/23,2022,Man City,Aston Villa,HomeWin,1.25,6.5,11.0,HomeWin,0.754,True,1.25,1250.0,250.0,-1150.0
+2023-02-25,2022/23,2022,Bournemouth,Man City,AwayWin,10.0,5.75,1.29,AwayWin,0.741,True,1.29,1290.0,290.0,-860.0
+2023-03-01,2022/23,2022,Liverpool,Wolves,HomeWin,1.5,4.75,6.0,HomeWin,0.707,True,1.5,1500.0,500.0,-360.0
+2023-03-01,2022/23,2022,Arsenal,Everton,HomeWin,1.36,4.75,10.0,HomeWin,0.751,True,1.36,1360.0,360.0,0.0
+2023-03-04,2022/23,2022,Arsenal,Bournemouth,HomeWin,1.22,7.0,12.0,HomeWin,0.807,True,1.22,1220.0,220.0,220.0
+2023-03-11,2022/23,2022,Bournemouth,Liverpool,HomeWin,7.5,5.0,1.4,AwayWin,0.745,False,1.4,0.0,-1000.0,-780.0
+2023-03-12,2022/23,2022,Man United,Southampton,Draw,1.36,5.0,9.0,HomeWin,0.781,False,1.36,0.0,-1000.0,-1780.0
+2023-03-12,2022/23,2022,Newcastle,Wolves,HomeWin,1.65,3.75,5.5,HomeWin,0.711,True,1.65,1650.0,650.0,-1130.0
+2023-03-18,2022/23,2022,Chelsea,Everton,Draw,1.5,4.2,7.5,HomeWin,0.711,False,1.5,0.0,-1000.0,-2130.0
+2023-03-19,2022/23,2022,Arsenal,Crystal Palace,HomeWin,1.25,5.5,15.0,HomeWin,0.744,True,1.25,1250.0,250.0,-1880.0
+2023-04-01,2022/23,2022,Arsenal,Leeds,HomeWin,1.29,6.0,9.0,HomeWin,0.806,True,1.29,1290.0,290.0,-1590.0
+2023-04-04,2022/23,2022,Bournemouth,Brighton,AwayWin,6.0,4.2,1.53,AwayWin,0.702,True,1.53,1530.0,530.0,-1060.0
+2023-04-08,2022/23,2022,Leicester,Bournemouth,AwayWin,1.83,3.75,4.2,HomeWin,0.716,False,1.83,0.0,-1000.0,-2060.0
+2023-04-08,2022/23,2022,Southampton,Man City,AwayWin,11.0,6.0,1.25,AwayWin,0.801,True,1.25,1250.0,250.0,-1810.0
+2023-04-15,2022/23,2022,Tottenham,Bournemouth,AwayWin,1.45,4.5,7.0,HomeWin,0.744,False,1.45,0.0,-1000.0,-2810.0
+2023-04-15,2022/23,2022,Man City,Leicester,HomeWin,1.14,8.5,15.0,HomeWin,0.808,True,1.14,1140.0,140.0,-2670.0
+2023-04-21,2022/23,2022,Arsenal,Southampton,Draw,1.2,7.0,13.0,HomeWin,0.785,False,1.2,0.0,-1000.0,-3670.0
+2023-04-22,2022/23,2022,Liverpool,Nott'm Forest,HomeWin,1.17,7.5,17.0,HomeWin,0.83,True,1.17,1170.0,170.0,-3500.0
+2023-04-26,2022/23,2022,Man City,Arsenal,HomeWin,1.55,4.5,5.25,HomeWin,0.714,True,1.55,1550.0,550.0,-2950.0
+2023-04-30,2022/23,2022,Fulham,Man City,AwayWin,12.0,6.0,1.25,AwayWin,0.832,True,1.25,1250.0,250.0,-2700.0
+2023-05-03,2022/23,2022,Liverpool,Fulham,HomeWin,1.25,5.75,11.0,HomeWin,0.843,True,1.25,1250.0,250.0,-2450.0
+2023-05-03,2022/23,2022,Man City,West Ham,HomeWin,1.2,7.0,13.0,HomeWin,0.915,True,1.2,1200.0,200.0,-2250.0
+2023-05-06,2022/23,2022,Man City,Leeds,HomeWin,1.17,8.5,15.0,HomeWin,0.804,True,1.17,1170.0,170.0,-2080.0
+2023-05-13,2022/23,2022,Man United,Wolves,HomeWin,1.36,5.0,7.5,HomeWin,0.753,True,1.36,1360.0,360.0,-1720.0
+2023-05-14,2022/23,2022,Arsenal,Brighton,AwayWin,1.73,4.2,4.2,HomeWin,0.727,False,1.73,0.0,-1000.0,-2720.0
+2023-05-14,2022/23,2022,Everton,Man City,AwayWin,9.0,4.75,1.36,AwayWin,0.714,True,1.36,1360.0,360.0,-2360.0
+2023-05-21,2022/23,2022,Brighton,Southampton,HomeWin,1.22,7.0,11.0,HomeWin,0.788,True,1.22,1220.0,220.0,-2140.0
+2023-05-28,2022/23,2022,Man United,Fulham,HomeWin,1.5,4.33,6.0,HomeWin,0.789,True,1.5,1500.0,500.0,-1640.0
+2023-05-28,2022/23,2022,Arsenal,Wolves,HomeWin,1.36,5.25,8.0,HomeWin,0.754,True,1.36,1360.0,360.0,-1280.0
+2023-08-11,2023/24,2023,Burnley,Man City,AwayWin,8.0,5.5,1.33,AwayWin,0.817,True,1.33,1330.0,330.0,-950.0
+2023-08-12,2023/24,2023,Arsenal,Nott'm Forest,HomeWin,1.18,7.0,15.0,HomeWin,0.881,True,1.18,1180.0,180.0,-770.0
+2023-08-14,2023/24,2023,Man United,Wolves,HomeWin,1.33,5.5,9.0,HomeWin,0.735,True,1.33,1330.0,330.0,-440.0
+2023-08-25,2023/24,2023,Chelsea,Luton,HomeWin,1.29,5.5,11.0,HomeWin,0.761,True,1.29,1290.0,290.0,-150.0
+2023-08-26,2023/24,2023,Man United,Nott'm Forest,HomeWin,1.3,6.0,8.0,HomeWin,0.725,True,1.3,1300.0,300.0,150.0
+2023-08-26,2023/24,2023,Arsenal,Fulham,Draw,1.2,7.0,13.0,HomeWin,0.92,False,1.2,0.0,-1000.0,-850.0
+2023-08-27,2023/24,2023,Sheffield United,Man City,AwayWin,13.0,8.0,1.17,AwayWin,0.789,True,1.17,1170.0,170.0,-680.0
+2023-09-02,2023/24,2023,Brentford,Bournemouth,Draw,1.73,3.8,4.75,HomeWin,0.706,False,1.73,0.0,-1000.0,-1680.0
+2023-09-02,2023/24,2023,Man City,Fulham,HomeWin,1.17,8.0,15.0,HomeWin,0.945,True,1.17,1170.0,170.0,-1510.0
+2023-09-16,2023/24,2023,West Ham,Man City,AwayWin,7.0,4.5,1.45,AwayWin,0.756,True,1.45,1450.0,450.0,-1060.0
+2023-09-16,2023/24,2023,Tottenham,Sheffield United,HomeWin,1.29,5.5,11.0,HomeWin,0.811,True,1.29,1290.0,290.0,-770.0
+2023-09-16,2023/24,2023,Fulham,Luton,HomeWin,1.67,3.75,5.5,HomeWin,0.716,True,1.67,1670.0,670.0,-100.0
+2023-09-17,2023/24,2023,Bournemouth,Chelsea,Draw,4.33,3.75,1.8,AwayWin,0.734,False,1.8,0.0,-1000.0,-1100.0
+2023-09-23,2023/24,2023,Man City,Nott'm Forest,HomeWin,1.14,8.5,15.0,HomeWin,0.907,True,1.14,1140.0,140.0,-960.0
+2023-09-24,2023/24,2023,Sheffield United,Newcastle,AwayWin,7.0,4.75,1.44,AwayWin,0.713,True,1.44,1440.0,440.0,-520.0
+2023-09-24,2023/24,2023,Liverpool,West Ham,HomeWin,1.4,5.0,7.0,HomeWin,0.74,True,1.4,1400.0,400.0,-120.0
+2023-09-30,2023/24,2023,Wolves,Man City,HomeWin,8.0,5.75,1.33,AwayWin,0.761,False,1.33,0.0,-1000.0,-1120.0
+2023-10-21,2023/24,2023,Liverpool,Everton,HomeWin,1.33,5.75,7.5,HomeWin,0.719,True,1.33,1330.0,330.0,-790.0
+2023-10-21,2023/24,2023,Man City,Brighton,HomeWin,1.4,5.25,6.5,HomeWin,0.832,True,1.4,1400.0,400.0,-390.0
+2023-10-23,2023/24,2023,Tottenham,Fulham,HomeWin,1.5,4.5,6.0,HomeWin,0.701,True,1.5,1500.0,500.0,110.0
+2023-10-28,2023/24,2023,Arsenal,Sheffield United,HomeWin,1.13,8.5,19.0,HomeWin,0.889,True,1.13,1130.0,130.0,240.0
+2023-10-28,2023/24,2023,Wolves,Newcastle,Draw,4.2,4.0,1.75,AwayWin,0.791,False,1.75,0.0,-1000.0,-760.0
+2023-10-29,2023/24,2023,Liverpool,Nott'm Forest,HomeWin,1.29,5.75,11.0,HomeWin,0.727,True,1.29,1290.0,290.0,-470.0
+2023-11-04,2023/24,2023,Man City,Bournemouth,HomeWin,1.1,11.0,19.0,HomeWin,0.898,True,1.1,1100.0,100.0,-370.0
+2023-11-05,2023/24,2023,Luton,Liverpool,Draw,12.0,6.5,1.22,AwayWin,0.827,False,1.22,0.0,-1000.0,-1370.0
+2023-11-11,2023/24,2023,Man United,Luton,HomeWin,1.33,5.25,9.5,HomeWin,0.732,True,1.33,1330.0,330.0,-1040.0
+2023-12-02,2023/24,2023,Arsenal,Wolves,HomeWin,1.25,5.5,12.0,HomeWin,0.735,True,1.25,1250.0,250.0,-790.0
+2023-12-03,2023/24,2023,Chelsea,Brighton,HomeWin,1.73,4.2,4.2,HomeWin,0.753,True,1.73,1730.0,730.0,-60.0
+2023-12-03,2023/24,2023,Liverpool,Fulham,HomeWin,1.25,6.5,9.0,HomeWin,0.727,True,1.25,1250.0,250.0,190.0
+2023-12-05,2023/24,2023,Luton,Arsenal,AwayWin,17.0,7.0,1.18,AwayWin,0.736,True,1.18,1180.0,180.0,370.0
+2023-12-06,2023/24,2023,Sheffield United,Liverpool,AwayWin,12.0,7.5,1.2,AwayWin,0.762,True,1.2,1200.0,200.0,570.0
+2023-12-09,2023/24,2023,Crystal Palace,Liverpool,AwayWin,6.0,4.5,1.5,AwayWin,0.728,True,1.5,1500.0,500.0,1070.0
+2023-12-10,2023/24,2023,Luton,Man City,AwayWin,17.0,8.0,1.14,AwayWin,0.748,True,1.14,1140.0,140.0,1210.0
+2023-12-16,2023/24,2023,Chelsea,Sheffield United,HomeWin,1.22,6.5,13.0,HomeWin,0.763,True,1.22,1220.0,220.0,1430.0
+2023-12-16,2023/24,2023,Man City,Crystal Palace,Draw,1.18,8.0,13.0,HomeWin,0.879,False,1.18,0.0,-1000.0,430.0
+2023-12-17,2023/24,2023,Liverpool,Man United,Draw,1.3,6.0,8.0,HomeWin,0.76,False,1.3,0.0,-1000.0,-570.0
+2023-12-17,2023/24,2023,Arsenal,Brighton,HomeWin,1.44,5.0,6.0,HomeWin,0.725,True,1.44,1440.0,440.0,-130.0
+2023-12-22,2023/24,2023,Aston Villa,Sheffield United,Draw,1.22,6.5,12.0,HomeWin,0.735,False,1.22,0.0,-1000.0,-1130.0
+2023-12-24,2023/24,2023,Wolves,Chelsea,HomeWin,3.75,3.75,1.91,AwayWin,0.728,False,1.91,0.0,-1000.0,-2130.0
+2023-12-26,2023/24,2023,Burnley,Liverpool,AwayWin,6.5,5.25,1.4,AwayWin,0.704,True,1.4,1400.0,400.0,-1730.0
+2023-12-28,2023/24,2023,Arsenal,West Ham,AwayWin,1.33,5.5,7.5,HomeWin,0.767,False,1.33,0.0,-1000.0,-2730.0
+2023-12-30,2023/24,2023,Luton,Chelsea,AwayWin,6.5,4.2,1.5,AwayWin,0.786,True,1.5,1500.0,500.0,-2230.0
+2023-12-30,2023/24,2023,Man City,Sheffield United,HomeWin,1.08,11.0,29.0,HomeWin,0.881,True,1.08,1080.0,80.0,-2150.0
+2024-01-20,2023/24,2023,Arsenal,Crystal Palace,HomeWin,1.3,5.75,9.0,HomeWin,0.726,True,1.3,1300.0,300.0,-1850.0
+2024-01-30,2023/24,2023,Nott'm Forest,Arsenal,AwayWin,7.5,5.0,1.4,AwayWin,0.706,True,1.4,1400.0,400.0,-1450.0
+2024-01-31,2023/24,2023,Man City,Burnley,HomeWin,1.08,12.0,21.0,HomeWin,0.928,True,1.08,1080.0,80.0,-1370.0
+2024-02-10,2023/24,2023,Luton,Sheffield United,AwayWin,1.75,3.75,4.75,HomeWin,0.737,False,1.75,0.0,-1000.0,-2370.0
+2024-02-10,2023/24,2023,Liverpool,Burnley,HomeWin,1.17,8.0,17.0,HomeWin,0.76,True,1.17,1170.0,170.0,-2200.0
+2024-02-10,2023/24,2023,Man City,Everton,HomeWin,1.18,8.0,13.0,HomeWin,0.895,True,1.18,1180.0,180.0,-2020.0
+2024-02-17,2023/24,2023,Burnley,Arsenal,AwayWin,10.0,5.75,1.29,AwayWin,0.771,True,1.29,1290.0,290.0,-1730.0
+2024-02-17,2023/24,2023,Man City,Chelsea,Draw,1.33,5.5,8.0,HomeWin,0.746,False,1.33,0.0,-1000.0,-2730.0
+2024-02-20,2023/24,2023,Man City,Brentford,HomeWin,1.18,8.0,13.0,HomeWin,0.941,True,1.18,1180.0,180.0,-2550.0
+2024-02-21,2023/24,2023,Liverpool,Luton,HomeWin,1.2,7.0,13.0,HomeWin,0.893,True,1.2,1200.0,200.0,-2350.0
+2024-02-24,2023/24,2023,Bournemouth,Man City,AwayWin,7.0,5.25,1.4,AwayWin,0.707,True,1.4,1400.0,400.0,-1950.0
+2024-03-03,2023/24,2023,Man City,Man United,HomeWin,1.25,5.75,11.0,HomeWin,0.846,True,1.25,1250.0,250.0,-1700.0
+2024-03-04,2023/24,2023,Sheffield United,Arsenal,AwayWin,17.0,7.0,1.18,AwayWin,0.864,True,1.18,1180.0,180.0,-1520.0
+2024-03-09,2023/24,2023,Arsenal,Brentford,HomeWin,1.22,7.0,11.0,HomeWin,0.849,True,1.22,1220.0,220.0,-1300.0
+2024-03-30,2023/24,2023,Tottenham,Luton,HomeWin,1.2,8.0,11.0,HomeWin,0.815,True,1.2,1200.0,200.0,-1100.0
+2024-03-30,2023/24,2023,Chelsea,Burnley,Draw,1.29,6.0,9.5,HomeWin,0.719,False,1.29,0.0,-1000.0,-2100.0
+2024-03-31,2023/24,2023,Man City,Arsenal,Draw,1.91,3.8,3.8,HomeWin,0.71,False,1.91,0.0,-1000.0,-3100.0
+2024-03-31,2023/24,2023,Liverpool,Brighton,HomeWin,1.36,5.5,7.5,HomeWin,0.796,True,1.36,1360.0,360.0,-2740.0
+2024-04-03,2023/24,2023,Man City,Aston Villa,HomeWin,1.3,6.0,8.0,HomeWin,0.827,True,1.3,1300.0,300.0,-2440.0
+2024-04-03,2023/24,2023,Arsenal,Luton,HomeWin,1.1,10.0,19.0,HomeWin,0.871,True,1.1,1100.0,100.0,-2340.0
+2024-04-04,2023/24,2023,Liverpool,Sheffield United,HomeWin,1.09,12.0,21.0,HomeWin,0.892,True,1.09,1090.0,90.0,-2250.0
+2024-04-06,2023/24,2023,Everton,Burnley,HomeWin,1.65,4.0,5.25,HomeWin,0.731,True,1.65,1650.0,650.0,-1600.0
+2024-04-06,2023/24,2023,Crystal Palace,Man City,AwayWin,9.5,5.25,1.33,AwayWin,0.799,True,1.33,1330.0,330.0,-1270.0
+2024-04-07,2023/24,2023,Tottenham,Nott'm Forest,HomeWin,1.4,5.5,6.5,HomeWin,0.737,True,1.4,1400.0,400.0,-870.0
+2024-04-13,2023/24,2023,Burnley,Brighton,Draw,3.5,3.75,2.0,AwayWin,0.722,False,2.0,0.0,-1000.0,-1870.0
+2024-04-13,2023/24,2023,Man City,Luton,HomeWin,1.1,11.0,19.0,HomeWin,0.892,True,1.1,1100.0,100.0,-1770.0
+2024-04-14,2023/24,2023,Liverpool,Crystal Palace,AwayWin,1.22,7.0,12.0,HomeWin,0.779,False,1.22,0.0,-1000.0,-2770.0
+2024-04-20,2023/24,2023,Luton,Brentford,AwayWin,3.1,3.75,2.15,AwayWin,0.71,True,2.15,2150.0,1150.0,-1620.0
+2024-04-20,2023/24,2023,Wolves,Arsenal,AwayWin,8.5,4.5,1.4,AwayWin,0.751,True,1.4,1400.0,400.0,-1220.0
+2024-04-23,2023/24,2023,Arsenal,Chelsea,HomeWin,1.44,5.0,6.0,HomeWin,0.743,True,1.44,1440.0,440.0,-780.0
+2024-04-24,2023/24,2023,Man United,Sheffield United,HomeWin,1.3,6.5,7.5,HomeWin,0.705,True,1.3,1300.0,300.0,-480.0
+2024-04-25,2023/24,2023,Brighton,Man City,AwayWin,6.5,5.0,1.4,AwayWin,0.731,True,1.4,1400.0,400.0,-80.0
+2024-04-28,2023/24,2023,Nott'm Forest,Man City,AwayWin,8.0,6.0,1.3,AwayWin,0.769,True,1.3,1300.0,300.0,220.0
+2024-05-04,2023/24,2023,Man City,Wolves,HomeWin,1.08,12.0,21.0,HomeWin,0.894,True,1.08,1080.0,80.0,300.0
+2024-05-04,2023/24,2023,Arsenal,Bournemouth,HomeWin,1.22,7.5,11.0,HomeWin,0.881,True,1.22,1220.0,220.0,520.0
+2024-05-11,2023/24,2023,Fulham,Man City,AwayWin,13.0,7.0,1.2,AwayWin,0.814,True,1.2,1200.0,200.0,720.0
+2024-05-14,2023/24,2023,Tottenham,Man City,AwayWin,6.5,6.0,1.36,AwayWin,0.839,True,1.36,1360.0,360.0,1080.0
+2024-05-19,2023/24,2023,Liverpool,Wolves,HomeWin,1.17,8.0,15.0,HomeWin,0.924,True,1.17,1170.0,170.0,1250.0
+2024-05-19,2023/24,2023,Man City,West Ham,HomeWin,1.08,12.0,21.0,HomeWin,0.899,True,1.08,1080.0,80.0,1330.0
+2024-05-19,2023/24,2023,Arsenal,Everton,HomeWin,1.18,8.0,12.0,HomeWin,0.906,True,1.18,1180.0,180.0,1510.0
+2024-05-19,2023/24,2023,Chelsea,Bournemouth,HomeWin,1.45,5.0,6.0,HomeWin,0.7,True,1.45,1450.0,450.0,1960.0
+2024-08-16,2024/25,2024,Man United,Fulham,HomeWin,1.6,4.2,5.25,HomeWin,0.705,True,1.6,1600.0,600.0,2560.0
+2024-08-17,2024/25,2024,Arsenal,Wolves,HomeWin,1.18,7.5,13.0,HomeWin,0.818,True,1.18,1180.0,180.0,2740.0
+2024-08-18,2024/25,2024,Chelsea,Man City,AwayWin,4.1,3.9,1.8,AwayWin,0.748,True,1.8,1800.0,800.0,3540.0
+2024-08-24,2024/25,2024,Tottenham,Everton,HomeWin,1.44,4.75,6.5,HomeWin,0.718,True,1.44,1440.0,440.0,3980.0
+2024-08-24,2024/25,2024,Aston Villa,Arsenal,AwayWin,4.33,3.8,1.75,AwayWin,0.735,True,1.75,1750.0,750.0,4730.0
+2024-08-24,2024/25,2024,Man City,Ipswich,HomeWin,1.08,12.0,21.0,HomeWin,0.867,True,1.08,1080.0,80.0,4810.0
+2024-08-25,2024/25,2024,Liverpool,Brentford,HomeWin,1.27,5.75,11.0,HomeWin,0.746,True,1.27,1270.0,270.0,5080.0
+2024-08-31,2024/25,2024,West Ham,Man City,AwayWin,7.0,5.5,1.38,AwayWin,0.745,True,1.38,1380.0,380.0,5460.0
+2024-09-14,2024/25,2024,Liverpool,Nott'm Forest,AwayWin,1.22,6.5,12.0,HomeWin,0.806,False,1.22,0.0,-1000.0,4460.0
+2024-09-14,2024/25,2024,Bournemouth,Chelsea,AwayWin,3.4,3.8,2.0,AwayWin,0.709,True,2.0,2000.0,1000.0,5460.0
+2024-09-14,2024/25,2024,Southampton,Man United,AwayWin,4.5,4.0,1.7,AwayWin,0.714,True,1.7,1700.0,700.0,6160.0
+2024-09-14,2024/25,2024,Man City,Brentford,HomeWin,1.18,8.0,12.0,HomeWin,0.904,True,1.18,1180.0,180.0,6340.0
+2024-09-28,2024/25,2024,Wolves,Liverpool,AwayWin,8.0,5.75,1.33,AwayWin,0.813,True,1.33,1330.0,330.0,6670.0
+2024-10-05,2024/25,2024,Arsenal,Southampton,HomeWin,1.14,9.0,17.0,HomeWin,0.936,True,1.14,1140.0,140.0,6810.0
+2024-10-05,2024/25,2024,Crystal Palace,Liverpool,AwayWin,6.0,4.5,1.5,AwayWin,0.743,True,1.5,1500.0,500.0,7310.0
+2024-10-05,2024/25,2024,Man City,Fulham,HomeWin,1.25,7.0,9.5,HomeWin,0.817,True,1.25,1250.0,250.0,7560.0
+2024-10-20,2024/25,2024,Wolves,Man City,AwayWin,8.0,6.0,1.33,AwayWin,0.734,True,1.33,1330.0,330.0,7890.0
+2024-10-26,2024/25,2024,Man City,Southampton,HomeWin,1.11,10.0,17.0,HomeWin,0.949,True,1.11,1110.0,110.0,8000.0
+2024-11-02,2024/25,2024,Liverpool,Brighton,HomeWin,1.4,5.0,7.5,HomeWin,0.749,True,1.4,1400.0,400.0,8400.0
+2024-11-09,2024/25,2024,Liverpool,Aston Villa,HomeWin,1.42,5.25,6.5,HomeWin,0.76,True,1.42,1420.0,420.0,8820.0
+2024-11-23,2024/25,2024,Leicester,Chelsea,AwayWin,6.5,4.75,1.44,AwayWin,0.731,True,1.44,1440.0,440.0,9260.0
+2024-11-24,2024/25,2024,Southampton,Liverpool,AwayWin,11.0,5.75,1.27,AwayWin,0.787,True,1.27,1270.0,270.0,9530.0
+2024-12-04,2024/25,2024,Man City,Nott'm Forest,HomeWin,1.36,4.75,9.0,HomeWin,0.727,True,1.36,1360.0,360.0,9890.0
+2024-12-04,2024/25,2024,Southampton,Chelsea,AwayWin,8.5,5.25,1.33,AwayWin,0.791,True,1.33,1330.0,330.0,10220.0
+2024-12-04,2024/25,2024,Aston Villa,Brentford,HomeWin,1.8,3.75,4.33,HomeWin,0.733,True,1.8,1800.0,800.0,11020.0
+2024-12-14,2024/25,2024,Newcastle,Leicester,HomeWin,1.3,6.0,8.5,HomeWin,0.709,True,1.3,1300.0,300.0,11320.0
+2024-12-14,2024/25,2024,Liverpool,Fulham,Draw,1.33,5.5,8.0,HomeWin,0.815,False,1.33,0.0,-1000.0,10320.0
+2024-12-14,2024/25,2024,Arsenal,Everton,Draw,1.22,6.5,12.0,HomeWin,0.756,False,1.22,0.0,-1000.0,9320.0
+2024-12-26,2024/25,2024,Man City,Everton,Draw,1.33,5.5,7.5,HomeWin,0.709,False,1.33,0.0,-1000.0,8320.0
+2024-12-26,2024/25,2024,Chelsea,Fulham,AwayWin,1.48,4.75,6.0,HomeWin,0.702,False,1.48,0.0,-1000.0,7320.0
+2024-12-26,2024/25,2024,Liverpool,Leicester,HomeWin,1.08,12.0,23.0,HomeWin,0.934,True,1.08,1080.0,80.0,7400.0
+2024-12-27,2024/25,2024,Arsenal,Ipswich,HomeWin,1.14,9.0,15.0,HomeWin,0.746,True,1.14,1140.0,140.0,7540.0
+2025-01-01,2024/25,2024,Brentford,Arsenal,AwayWin,6.5,4.75,1.44,AwayWin,0.722,True,1.44,1440.0,440.0,7980.0
+2025-01-04,2024/25,2024,Man City,West Ham,HomeWin,1.3,6.25,7.5,HomeWin,0.82,True,1.3,1300.0,300.0,8280.0
+2025-01-15,2024/25,2024,Arsenal,Tottenham,HomeWin,1.4,5.25,7.0,HomeWin,0.75,True,1.4,1400.0,400.0,8680.0
+2025-01-18,2024/25,2024,Brentford,Liverpool,AwayWin,6.5,5.0,1.42,AwayWin,0.774,True,1.42,1420.0,420.0,9100.0
+2025-01-19,2024/25,2024,Nott'm Forest,Southampton,HomeWin,1.38,4.75,8.0,HomeWin,0.754,True,1.38,1380.0,380.0,9480.0
+2025-01-25,2024/25,2024,Liverpool,Ipswich,HomeWin,1.08,12.0,15.0,HomeWin,0.825,True,1.08,1080.0,80.0,9560.0
+2025-01-25,2024/25,2024,Southampton,Newcastle,AwayWin,6.5,5.25,1.42,AwayWin,0.713,True,1.42,1420.0,420.0,9980.0
+2025-02-12,2024/25,2024,Everton,Liverpool,Draw,7.5,4.5,1.44,AwayWin,0.72,False,1.44,0.0,-1000.0,8980.0
+2025-02-16,2024/25,2024,Liverpool,Wolves,HomeWin,1.15,8.0,12.0,HomeWin,0.926,True,1.15,1150.0,150.0,9130.0
+2025-02-22,2024/25,2024,Arsenal,West Ham,AwayWin,1.27,6.0,10.0,HomeWin,0.716,False,1.27,0.0,-1000.0,8130.0
+2025-02-22,2024/25,2024,Southampton,Brighton,AwayWin,6.0,4.1,1.55,AwayWin,0.765,True,1.55,1550.0,550.0,8680.0
+2025-02-25,2024/25,2024,Chelsea,Southampton,HomeWin,1.17,8.0,13.0,HomeWin,0.744,True,1.17,1170.0,170.0,8850.0
+2025-03-08,2024/25,2024,Liverpool,Southampton,HomeWin,1.1,9.0,19.0,HomeWin,0.874,True,1.1,1100.0,100.0,8950.0
+2025-03-09,2024/25,2024,Chelsea,Leicester,HomeWin,1.18,8.0,12.0,HomeWin,0.867,True,1.18,1180.0,180.0,9130.0
+2025-03-15,2024/25,2024,Man City,Brighton,Draw,1.67,4.33,4.5,HomeWin,0.767,False,1.67,0.0,-1000.0,8130.0
+2025-04-01,2024/25,2024,Arsenal,Fulham,HomeWin,1.48,4.33,7.0,HomeWin,0.757,True,1.48,1480.0,480.0,8610.0
+2025-04-02,2024/25,2024,Liverpool,Everton,HomeWin,1.36,5.0,8.0,HomeWin,0.774,True,1.36,1360.0,360.0,8970.0
+2025-04-02,2024/25,2024,Man City,Leicester,HomeWin,1.2,8.0,10.0,HomeWin,0.883,True,1.2,1200.0,200.0,9170.0
+2025-04-12,2024/25,2024,Man City,Crystal Palace,HomeWin,1.5,4.75,5.75,HomeWin,0.764,True,1.5,1500.0,500.0,9670.0
+2025-04-12,2024/25,2024,Arsenal,Brentford,Draw,1.6,4.33,5.0,HomeWin,0.709,False,1.6,0.0,-1000.0,8670.0
+2025-04-12,2024/25,2024,Brighton,Leicester,Draw,1.29,6.0,10.0,HomeWin,0.711,False,1.29,0.0,-1000.0,7670.0
+2025-04-13,2024/25,2024,Chelsea,Ipswich,Draw,1.27,7.0,8.5,HomeWin,0.702,False,1.27,0.0,-1000.0,6670.0
+2025-04-13,2024/25,2024,Liverpool,West Ham,HomeWin,1.3,6.0,8.0,HomeWin,0.812,True,1.3,1300.0,300.0,6970.0
+2025-04-20,2024/25,2024,Leicester,Liverpool,AwayWin,11.0,6.25,1.22,AwayWin,0.782,True,1.22,1220.0,220.0,7190.0
+2025-04-20,2024/25,2024,Ipswich,Arsenal,AwayWin,8.0,4.5,1.4,AwayWin,0.744,True,1.4,1400.0,400.0,7590.0
+2025-04-26,2024/25,2024,Wolves,Leicester,HomeWin,1.5,4.2,6.25,HomeWin,0.716,True,1.5,1500.0,500.0,8090.0
+2025-04-27,2024/25,2024,Liverpool,Tottenham,HomeWin,1.25,6.0,11.0,HomeWin,0.795,True,1.25,1250.0,250.0,8340.0
+2025-05-02,2024/25,2024,Man City,Wolves,HomeWin,1.4,4.75,7.5,HomeWin,0.753,True,1.4,1400.0,400.0,8740.0
+2025-05-03,2024/25,2024,Everton,Ipswich,Draw,1.45,4.33,6.5,HomeWin,0.703,False,1.45,0.0,-1000.0,7740.0
+2025-05-10,2024/25,2024,Southampton,Man City,Draw,11.0,7.5,1.2,AwayWin,0.762,False,1.2,0.0,-1000.0,6740.0
+2025-05-25,2024/25,2024,Bournemouth,Leicester,HomeWin,1.33,5.25,8.5,HomeWin,0.727,True,1.33,1330.0,330.0,7070.0
+2025-05-25,2024/25,2024,Southampton,Arsenal,AwayWin,8.5,6.0,1.3,AwayWin,0.745,True,1.3,1300.0,300.0,7370.0
+2025-08-15,2025/26,2025,Liverpool,Bournemouth,HomeWin,1.3,6.0,8.5,HomeWin,0.76,True,1.3,1300.0,300.0,7670.0
+2025-08-16,2025/26,2025,Wolves,Man City,AwayWin,6.25,4.75,1.45,AwayWin,0.772,True,1.45,1450.0,450.0,8120.0
+2025-08-16,2025/26,2025,Tottenham,Burnley,HomeWin,1.38,4.75,8.5,HomeWin,0.714,True,1.38,1380.0,380.0,8500.0
+2025-08-23,2025/26,2025,Arsenal,Leeds,HomeWin,1.27,6.25,9.5,HomeWin,0.731,True,1.27,1270.0,270.0,8770.0
+2025-08-31,2025/26,2025,Nott'm Forest,West Ham,AwayWin,1.67,3.75,5.25,HomeWin,0.729,False,1.67,0.0,-1000.0,7770.0
+2025-09-21,2025/26,2025,Sunderland,Aston Villa,Draw,3.4,3.5,2.1,AwayWin,0.731,False,2.1,0.0,-1000.0,6770.0
+2025-09-27,2025/26,2025,Man City,Burnley,HomeWin,1.17,7.5,15.0,HomeWin,0.766,True,1.17,1170.0,170.0,6940.0
+2025-10-04,2025/26,2025,Arsenal,West Ham,HomeWin,1.18,6.5,17.0,HomeWin,0.736,True,1.18,1180.0,180.0,7120.0
+2025-10-18,2025/26,2025,Man City,Everton,HomeWin,1.4,5.0,7.0,HomeWin,0.719,True,1.4,1400.0,400.0,7520.0
+2025-10-25,2025/26,2025,Chelsea,Sunderland,AwayWin,1.36,4.75,9.0,HomeWin,0.716,False,1.36,0.0,-1000.0,6520.0
+2025-10-26,2025/26,2025,Aston Villa,Man City,HomeWin,4.33,3.8,1.8,AwayWin,0.708,False,1.8,0.0,-1000.0,5520.0
+2025-11-01,2025/26,2025,Burnley,Arsenal,AwayWin,10.0,6.0,1.27,AwayWin,0.719,True,1.27,1270.0,270.0,5790.0
+2025-11-08,2025/26,2025,Chelsea,Wolves,HomeWin,1.36,4.75,8.5,HomeWin,0.772,True,1.36,1360.0,360.0,6150.0
+2025-11-08,2025/26,2025,Sunderland,Arsenal,Draw,7.5,5.0,1.38,AwayWin,0.82,False,1.38,0.0,-1000.0,5150.0
+2025-11-29,2025/26,2025,Man City,Leeds,HomeWin,1.22,6.5,12.0,HomeWin,0.744,True,1.22,1220.0,220.0,5370.0
+2025-12-03,2025/26,2025,Liverpool,Sunderland,Draw,1.36,5.25,7.0,HomeWin,0.749,False,1.36,0.0,-1000.0,4370.0
+2025-12-04,2025/26,2025,Man United,West Ham,Draw,1.45,5.0,6.0,HomeWin,0.766,False,1.45,0.0,-1000.0,3370.0
+2025-12-06,2025/26,2025,Man City,Sunderland,HomeWin,1.25,6.5,10.0,HomeWin,0.852,True,1.25,1250.0,250.0,3620.0
+2025-12-13,2025/26,2025,Arsenal,Wolves,HomeWin,1.13,8.5,21.0,HomeWin,0.872,True,1.13,1130.0,130.0,3750.0
+2025-12-20,2025/26,2025,Man City,West Ham,HomeWin,1.22,8.0,10.0,HomeWin,0.846,True,1.22,1220.0,220.0,3970.0
+2025-12-27,2025/26,2025,Arsenal,Brighton,HomeWin,1.42,4.75,7.0,HomeWin,0.784,True,1.42,1420.0,420.0,4390.0
+2025-12-30,2025/26,2025,Arsenal,Aston Villa,HomeWin,1.42,4.75,7.0,HomeWin,0.766,True,1.42,1420.0,420.0,4810.0
+2025-12-30,2025/26,2025,Man United,Wolves,Draw,1.36,5.25,8.0,HomeWin,0.724,False,1.36,0.0,-1000.0,3810.0
+2026-01-01,2025/26,2025,Sunderland,Man City,Draw,7.5,4.75,1.38,AwayWin,0.742,False,1.38,0.0,-1000.0,2810.0
+2026-01-04,2025/26,2025,Man City,Chelsea,Draw,1.6,4.75,4.5,HomeWin,0.733,False,1.6,0.0,-1000.0,1810.0
+2026-01-07,2025/26,2025,Man City,Brighton,Draw,1.4,5.25,6.5,HomeWin,0.707,False,1.4,0.0,-1000.0,810.0
+2026-01-24,2025/26,2025,Man City,Wolves,HomeWin,1.2,7.0,11.0,HomeWin,0.763,True,1.2,1200.0,200.0,1010.0
+2026-02-07,2025/26,2025,Arsenal,Sunderland,HomeWin,1.22,6.25,12.0,HomeWin,0.815,True,1.22,1220.0,220.0,1230.0
+2026-02-11,2025/26,2025,Man City,Fulham,HomeWin,1.36,5.5,7.0,HomeWin,0.804,True,1.36,1360.0,360.0,1590.0
+2026-02-18,2025/26,2025,Wolves,Arsenal,Draw,11.0,5.25,1.29,AwayWin,0.747,False,1.29,0.0,-1000.0,590.0
+2026-02-21,2025/26,2025,Chelsea,Burnley,Draw,1.22,6.5,12.0,HomeWin,0.779,False,1.22,0.0,-1000.0,-410.0
+2026-03-04,2025/26,2025,Man City,Nott'm Forest,Draw,1.38,5.0,7.5,HomeWin,0.72,False,1.38,0.0,-1000.0,-1410.0
+2026-03-14,2025/26,2025,Arsenal,Everton,HomeWin,1.38,4.75,8.5,HomeWin,0.705,True,1.38,1380.0,380.0,-1030.0
+2026-03-14,2025/26,2025,Burnley,Bournemouth,Draw,4.1,3.8,1.83,AwayWin,0.706,False,1.83,0.0,-1000.0,-2030.0
+2026-04-10,2025/26,2025,West Ham,Wolves,HomeWin,1.8,3.8,4.33,HomeWin,0.726,True,1.8,1800.0,800.0,-1230.0
+2026-04-11,2025/26,2025,Arsenal,Bournemouth,AwayWin,1.44,4.5,7.5,HomeWin,0.791,False,1.44,0.0,-1000.0,-2230.0
+2026-04-19,2025/26,2025,Nott'm Forest,Burnley,HomeWin,1.5,4.2,7.0,HomeWin,0.701,True,1.5,1500.0,500.0,-1730.0
+2026-04-19,2025/26,2025,Man City,Arsenal,HomeWin,1.83,3.7,4.2,HomeWin,0.709,True,1.83,1830.0,830.0,-900.0
+2026-04-22,2025/26,2025,Burnley,Man City,AwayWin,19.0,9.0,1.13,AwayWin,0.866,True,1.13,1130.0,130.0,-770.0
+2026-04-25,2025/26,2025,Wolves,Tottenham,AwayWin,4.5,4.33,1.67,AwayWin,0.765,True,1.67,1670.0,670.0,-100.0
+2026-04-25,2025/26,2025,Liverpool,Crystal Palace,HomeWin,1.44,5.0,6.25,HomeWin,0.787,True,1.44,1440.0,440.0,340.0
+2026-05-01,2025/26,2025,Leeds,Burnley,HomeWin,1.33,5.0,9.5,HomeWin,0.704,True,1.33,1330.0,330.0,670.0
+2026-05-09,2025/26,2025,Man City,Brentford,HomeWin,1.36,5.75,7.0,HomeWin,0.763,True,1.36,1360.0,360.0,1030.0
+2026-05-13,2025/26,2025,Man City,Crystal Palace,HomeWin,1.2,7.5,12.0,HomeWin,0.927,True,1.2,1200.0,200.0,1230.0
+2026-05-18,2025/26,2025,Arsenal,Burnley,HomeWin,1.09,11.0,23.0,HomeWin,0.819,True,1.09,1090.0,90.0,1320.0
+2026-05-24,2025/26,2025,Nott'm Forest,Bournemouth,Draw,3.3,3.75,2.05,AwayWin,0.706,False,2.05,0.0,-1000.0,320.0
+2026-05-24,2025/26,2025,Man City,Aston Villa,AwayWin,1.29,6.0,9.0,HomeWin,0.757,False,1.29,0.0,-1000.0,-680.0
